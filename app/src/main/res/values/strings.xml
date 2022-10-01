@@ -21,9 +21,17 @@
     <string name="jojo5_title">Невероятные Приключения ДжоДжо: Золотой ветер</string>
 
     <string name="details">Подробнее</string>
+    <string name="about">О приложении</string>
+    <string name="main_screen">Главный экран</string>
     <string name="like">Нравится</string>
     <string name="back">Назад</string>
     <string name="invitation">Пригласить друга</string>
-
+    <string name="close">Закрыть</string>
+    <string name="navigation_drawer_open">Открыть navigation drawer</string>
+    <string name="navigation_drawer_close">Закрыть navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
 
 </resources>

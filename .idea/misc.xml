@@ -3,6 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/drawable/fr1.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/drawable/fr2.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/drawable/fr3.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/drawable/fr4.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/drawable/frame_anim.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1205" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/layout/activity_detail.xml" value="0.109375" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/layout/activity_main.xml" value="0.1606060606060606" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/layout/main_host.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/layout/waiting_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/menu/drawer_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/menu/menu_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Public/Projects/AndroidStudio2022/app/src/main/res/menu/top_menu.xml" value="0.109375" />
         <entry key="..\:/Users/Public/Projects/New5/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1" />
         <entry key="..\:/Users/Public/Projects/New5/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/Public/Projects/New5/app/src/main/res/drawable/jojo1.xml" value="0.122" />
